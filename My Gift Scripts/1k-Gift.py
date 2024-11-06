@@ -95,9 +95,9 @@ logo = ("""
  ######     ##    ########  ######## ##     ##                                        
 
 [+]==============================================
-[+] CREATED BY   :  ANONYMOUS U7P4L
-[+] COUNTRY      :  BANGLADESH 
-[+] ON GITHUB    :  U7P4L-IN
+[+] CREATED BY   :  AZRA
+[+] COUNTRY      :  PHILIPPINES 
+[+] ON GITHUB    :  azralrp
 [+] TOOL STATUS  :  RANDOM
 [+] TOOL VERSION :  7.0
 [+]==============================================""")
